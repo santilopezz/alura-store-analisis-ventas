@@ -1,1 +1,1 @@
-# alura-store-analisis-ventas
+#Estado del proyecto: finalizado
